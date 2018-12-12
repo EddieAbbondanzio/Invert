@@ -12,3 +12,6 @@ C:\Users\Eddie\Development\Invert\Invert.Test\obj\Release\netcoreapp2.1\Invert.T
 C:\Users\Eddie\Development\Invert\Invert.Test\obj\Release\netcoreapp2.1\Invert.Test.AssemblyInfo.cs
 C:\Users\Eddie\Development\Invert\Invert.Test\obj\Release\netcoreapp2.1\Invert.Test.dll
 C:\Users\Eddie\Development\Invert\Invert.Test\obj\Release\netcoreapp2.1\Invert.Test.pdb
+C:\Users\Eddie\Development\Invert\Invert.Test\bin\Release\netcoreapp2.1\Invert.dll
+C:\Users\Eddie\Development\Invert\Invert.Test\bin\Release\netcoreapp2.1\Invert.pdb
+C:\Users\Eddie\Development\Invert\Invert.Test\obj\Release\netcoreapp2.1\Invert.Test.csproj.CopyComplete

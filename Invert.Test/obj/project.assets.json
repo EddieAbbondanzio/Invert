@@ -1677,6 +1677,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Invert/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Invert.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Invert.dll": {}
+        }
       }
     }
   },
@@ -5705,10 +5715,16 @@
         "xunit.runner.visualstudio.2.3.1.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Invert/1.0.0": {
+      "type": "project",
+      "path": "../Invert/Invert.csproj",
+      "msbuildProject": "../Invert/Invert.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Invert >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.7.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "xunit >= 2.3.1",
@@ -5744,7 +5760,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.csproj": {
+              "projectPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

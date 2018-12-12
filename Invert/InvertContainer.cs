@@ -61,6 +61,15 @@ namespace Invert {
             RegisteredDependency dependency = ResolveDependency(type);
             return (T)Instantiate(dependency);
         }
+
+        /// <summary>
+        /// Checks if the container has a type registered.
+        /// </summary>
+        /// <typeparam name="T">The type to check.</typeparam>
+        /// <returns>True if the type exists in the container.</returns>
+        public bool HasDependency<T>() {
+            return ResolveDependency(typeof(T)) != null;
+        }
         #endregion
 
         #region Helpers
@@ -89,11 +98,15 @@ namespace Invert {
         private object Instantiate(RegisteredDependency dependency) {
             //Review this later on:
             //https://stackoverflow.com/questions/752/get-a-new-object-instance-from-a-type/29239907
-            ConstructorInfo constructor = dependency.ResolveType.GetConstructors().First(c => c.GetCustomAttribute<InvertConstructorAttribute>() != null);
+            ConstructorInfo constructor = null;
 
-            //Did we find one?
-            if(constructor == null) {
-                throw new MissingMethodException(string.Format("No constructor marked with an InjectConstructorAttribute found for type {0}", dependency.ResolveType));
+            try {
+                constructor = dependency.ResolveType.GetConstructors().First(c => c.GetCustomAttribute<InvertConstructorAttribute>() != null);
+            }
+            finally {
+                if(constructor == null) {
+                    throw new MissingMethodException(string.Format("No constructor marked with an InjectConstructorAttribute found for type {0}", dependency.ResolveType));
+                }
             }
 
             ParameterInfo[] parameterInfos = constructor.GetParameters();

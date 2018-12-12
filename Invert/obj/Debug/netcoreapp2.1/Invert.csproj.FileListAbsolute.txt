@@ -1,0 +1,9 @@
+C:\Users\Eddie\Development\Invert\Invert\Invert\obj\Debug\netcoreapp2.1\Invert.csprojAssemblyReference.cache
+C:\Users\Eddie\Development\Invert\Invert\Invert\obj\Debug\netcoreapp2.1\Invert.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\Development\Invert\Invert\Invert\obj\Debug\netcoreapp2.1\Invert.AssemblyInfoInputs.cache
+C:\Users\Eddie\Development\Invert\Invert\Invert\obj\Debug\netcoreapp2.1\Invert.AssemblyInfo.cs
+C:\Users\Eddie\Development\Invert\Invert\Invert\bin\Debug\netcoreapp2.1\Invert.deps.json
+C:\Users\Eddie\Development\Invert\Invert\Invert\bin\Debug\netcoreapp2.1\Invert.dll
+C:\Users\Eddie\Development\Invert\Invert\Invert\bin\Debug\netcoreapp2.1\Invert.pdb
+C:\Users\Eddie\Development\Invert\Invert\Invert\obj\Debug\netcoreapp2.1\Invert.dll
+C:\Users\Eddie\Development\Invert\Invert\Invert\obj\Debug\netcoreapp2.1\Invert.pdb

@@ -5722,11 +5722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.Test\\Invert.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Eddie\\Development\\Invert\\Invert.Test\\Invert.Test.csproj",
       "projectName": "Invert.Test",
-      "projectPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.Test\\Invert.Test.csproj",
+      "projectPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert.Test\\Invert.Test.csproj",
       "packagesPath": "C:\\Users\\Eddie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.Test\\obj\\",
+      "outputPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

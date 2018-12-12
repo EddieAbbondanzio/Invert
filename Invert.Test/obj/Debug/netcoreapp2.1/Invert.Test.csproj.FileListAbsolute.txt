@@ -12,3 +12,17 @@ C:\Users\Eddie\Development\Invert\Invert\Invert.Test\obj\Debug\netcoreapp2.1\Inv
 C:\Users\Eddie\Development\Invert\Invert\Invert.Test\obj\Debug\netcoreapp2.1\Invert.Test.AssemblyInfo.cs
 C:\Users\Eddie\Development\Invert\Invert\Invert.Test\obj\Debug\netcoreapp2.1\Invert.Test.dll
 C:\Users\Eddie\Development\Invert\Invert\Invert.Test\obj\Debug\netcoreapp2.1\Invert.Test.pdb
+C:\Users\Eddie\Development\Invert\Invert.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Eddie\Development\Invert\Invert.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Eddie\Development\Invert\Invert.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Eddie\Development\Invert\Invert.Test\bin\Debug\netcoreapp2.1\Invert.Test.deps.json
+C:\Users\Eddie\Development\Invert\Invert.Test\bin\Debug\netcoreapp2.1\Invert.Test.runtimeconfig.json
+C:\Users\Eddie\Development\Invert\Invert.Test\bin\Debug\netcoreapp2.1\Invert.Test.runtimeconfig.dev.json
+C:\Users\Eddie\Development\Invert\Invert.Test\bin\Debug\netcoreapp2.1\Invert.Test.dll
+C:\Users\Eddie\Development\Invert\Invert.Test\bin\Debug\netcoreapp2.1\Invert.Test.pdb
+C:\Users\Eddie\Development\Invert\Invert.Test\obj\Debug\netcoreapp2.1\Invert.Test.csprojAssemblyReference.cache
+C:\Users\Eddie\Development\Invert\Invert.Test\obj\Debug\netcoreapp2.1\Invert.Test.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\Development\Invert\Invert.Test\obj\Debug\netcoreapp2.1\Invert.Test.AssemblyInfoInputs.cache
+C:\Users\Eddie\Development\Invert\Invert.Test\obj\Debug\netcoreapp2.1\Invert.Test.AssemblyInfo.cs
+C:\Users\Eddie\Development\Invert\Invert.Test\obj\Debug\netcoreapp2.1\Invert.Test.dll
+C:\Users\Eddie\Development\Invert\Invert.Test\obj\Debug\netcoreapp2.1\Invert.Test.pdb

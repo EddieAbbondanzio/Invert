@@ -12,3 +12,17 @@ C:\Users\Eddie\Development\Invert\Invert\Invert.Dev\obj\Debug\netcoreapp2.1\Inve
 C:\Users\Eddie\Development\Invert\Invert\Invert.Dev\bin\Debug\netcoreapp2.1\Invert.dll
 C:\Users\Eddie\Development\Invert\Invert\Invert.Dev\bin\Debug\netcoreapp2.1\Invert.pdb
 C:\Users\Eddie\Development\Invert\Invert\Invert.Dev\obj\Debug\netcoreapp2.1\Invert.Dev.csproj.CopyComplete
+C:\Users\Eddie\Development\Invert\Invert.Dev\bin\Debug\netcoreapp2.1\Invert.Dev.deps.json
+C:\Users\Eddie\Development\Invert\Invert.Dev\bin\Debug\netcoreapp2.1\Invert.Dev.runtimeconfig.json
+C:\Users\Eddie\Development\Invert\Invert.Dev\bin\Debug\netcoreapp2.1\Invert.Dev.runtimeconfig.dev.json
+C:\Users\Eddie\Development\Invert\Invert.Dev\bin\Debug\netcoreapp2.1\Invert.Dev.dll
+C:\Users\Eddie\Development\Invert\Invert.Dev\bin\Debug\netcoreapp2.1\Invert.Dev.pdb
+C:\Users\Eddie\Development\Invert\Invert.Dev\bin\Debug\netcoreapp2.1\Invert.dll
+C:\Users\Eddie\Development\Invert\Invert.Dev\bin\Debug\netcoreapp2.1\Invert.pdb
+C:\Users\Eddie\Development\Invert\Invert.Dev\obj\Debug\netcoreapp2.1\Invert.Dev.csprojAssemblyReference.cache
+C:\Users\Eddie\Development\Invert\Invert.Dev\obj\Debug\netcoreapp2.1\Invert.Dev.csproj.CoreCompileInputs.cache
+C:\Users\Eddie\Development\Invert\Invert.Dev\obj\Debug\netcoreapp2.1\Invert.Dev.AssemblyInfoInputs.cache
+C:\Users\Eddie\Development\Invert\Invert.Dev\obj\Debug\netcoreapp2.1\Invert.Dev.AssemblyInfo.cs
+C:\Users\Eddie\Development\Invert\Invert.Dev\obj\Debug\netcoreapp2.1\Invert.Dev.csproj.CopyComplete
+C:\Users\Eddie\Development\Invert\Invert.Dev\obj\Debug\netcoreapp2.1\Invert.Dev.dll
+C:\Users\Eddie\Development\Invert\Invert.Dev\obj\Debug\netcoreapp2.1\Invert.Dev.pdb

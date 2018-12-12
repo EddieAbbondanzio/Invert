@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.Dev\\Invert.Dev.csproj",
+      "projectUniqueName": "C:\\Users\\Eddie\\Development\\Invert\\Invert.Dev\\Invert.Dev.csproj",
       "projectName": "Invert.Dev",
-      "projectPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.Dev\\Invert.Dev.csproj",
+      "projectPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert.Dev\\Invert.Dev.csproj",
       "packagesPath": "C:\\Users\\Eddie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.Dev\\obj\\",
+      "outputPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert.Dev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -726,8 +726,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert\\Invert.csproj": {
-              "projectPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert\\Invert.csproj"
+            "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.csproj": {
+              "projectPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.csproj"
             }
           }
         }

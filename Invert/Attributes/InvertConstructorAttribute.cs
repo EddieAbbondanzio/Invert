@@ -8,6 +8,6 @@ namespace Invert {
     /// Invert to build the object.
     /// </summary>
     [AttributeUsage(AttributeTargets.Constructor)]
-    public sealed class InjectConstructorAttribute : Attribute {
+    public sealed class InvertConstructorAttribute : Attribute {
     }
 }

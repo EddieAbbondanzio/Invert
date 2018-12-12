@@ -1,21 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 
 namespace Invert.Dev {
-    public class Foo {
-        [InjectConstructor]
+    public class Foo : IFoo {
+        [InvertConstructor]
         public Foo() {
 
         }
     }
 
+    public interface IFoo {
+
+    }
+
     class Program {
         static void Main(string[] args) {
+
             InvertContainer container = new InvertContainer();
-            container.Register<Foo>();
+            container.Register<IFoo>().To<Foo>();
 
-            Foo f = container.Resolve<Foo>();
-
+            Console.WriteLine(container.Resolve<IFoo>());
 
             Console.ReadKey();
         }

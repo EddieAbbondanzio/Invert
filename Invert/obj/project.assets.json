@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert\\Invert.csproj",
+      "projectUniqueName": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.csproj",
       "projectName": "Invert",
-      "projectPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert\\Invert.csproj",
+      "projectPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert.csproj",
       "packagesPath": "C:\\Users\\Eddie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\Invert\\obj\\",
+      "outputPath": "C:\\Users\\Eddie\\Development\\Invert\\Invert\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
